@@ -30,6 +30,10 @@ HTTP (hypertext transfer protocol) définit les opérations GET, POST, PATCH, an
 * DELETE : permet de supprimer des données sur un serveur distant
 
 
+### Utiliser la console IRB
+
+Ouvrir : ```$ rails console```
+Sortir ```ctrl + c```
 
 
 
